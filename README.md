@@ -2,9 +2,9 @@
 
 An AI-powered medical report analysis and diet planning application. This project uses a two-stage LLM pipeline (built with LangChain and Google GenAI) to analyze blood test reports, flag out-of-range values, and generate personalized health summaries and practical Indian diet recommendations.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_DEPLOYED_URL_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sarthakgupta99-blood-work-analyzer-streamlit-appapp-mdyd4a.streamlit.app/)
 
-**[🔗 Live Demo](YOUR_DEPLOYED_URL_HERE)**
+**[🔗 Live Demo](https://sarthakgupta99-blood-work-analyzer-streamlit-appapp-mdyd4a.streamlit.app/)**
 
 ---
 
